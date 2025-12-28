@@ -1,0 +1,2 @@
+Simple script for finding information about IP by using free API of some services.
+Needs only curl and jq for working.
