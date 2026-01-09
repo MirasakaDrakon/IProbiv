@@ -1,2 +1,5 @@
 Simple script for finding information about IP by using free API of some services.
-Needs only curl and jq for working.
+Requires Python 3.X and libraries rich and requests.
+
+Install libraries:
+pip install rich requests
